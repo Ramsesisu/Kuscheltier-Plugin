@@ -1,3 +1,10 @@
 name: Kuscheltier-Plugin
 version: '${project.version}'
 main: org.kuscheltier.Kuscheltier_Plugin
+commands:
+  ooc:
+    description: Schreibt eine Nachricht out-of-character.
+    usage: /<command> <message> <...>
+  gun:
+    description: Regeneriert den Spieler voll.
+    usage: /<command>
