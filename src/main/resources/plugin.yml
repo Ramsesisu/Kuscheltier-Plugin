@@ -1,0 +1,3 @@
+name: Kuscheltier-Plugin
+version: '${project.version}'
+main: org.kuscheltier.Kuscheltier_Plugin
